@@ -1,0 +1,19 @@
+{
+  "name": "@sergeialimov/ui-projects",
+  "version": "1.0.0",
+  "description": "UI projects for sergeialimov.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeialimov/ui-projects.git"
+  },
+  "author": "Sergei Alimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeialimov/ui-projects/issues"
+  },
+  "homepage": "https://github.com/sergeialimov/ui-projects#readme"
+}
