@@ -12,9 +12,6 @@ module.exports = {
     'jsx-a11y',
     'import',
   ],
-  settings: {
-    'import/resolver': 'webpack',
-  },
   rules: {
     'no-console': 'off',
     'import/prefer-default-export': 'off',
